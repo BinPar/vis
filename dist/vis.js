@@ -44516,6 +44516,9 @@ return /******/ (function(modules) { // webpackBootstrap
       adaptiveTimestep: { boolean: boolean },
       __type__: { object: object, boolean: boolean }
     },
+    kamadaKawai: {
+      maxIterations: { number: number }
+    },
 
     //globals :
     autoResize: { boolean: boolean },
