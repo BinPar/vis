@@ -44517,7 +44517,8 @@ return /******/ (function(modules) { // webpackBootstrap
       __type__: { object: object, boolean: boolean }
     },
     kamadaKawai: {
-      maxIterations: { number: number }
+      maxIterations: { number: number },
+      __type__: { object: object }
     },
 
     //globals :
